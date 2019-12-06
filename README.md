@@ -6,4 +6,10 @@ This dataset contains temporal data from a Wireless Sensor Network worn by an ac
 AReM data: [link](https://archive.ics.uci.edu/ml/datasets/Activity+Recognition+system+based+on+Multisensor+data+fusion+%28AReM%29)
 This dataset represents a real-life benchmark in the area of Activity Recognition applications.
 
+### Results
+
+Binary Classification : 97% Accuracy
+
+Multi-class Classification: 81% Accuracy
+
 **Languages/Tools Used:** Python, scikit-learn
